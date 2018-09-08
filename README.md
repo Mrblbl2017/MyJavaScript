@@ -1,2 +1,2 @@
 # MyJavaScript
-My first works
+My first works :)
